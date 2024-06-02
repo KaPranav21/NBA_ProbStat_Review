@@ -1,6 +1,6 @@
 NBA Statistics Review
 Overview
-This project serves as a personal review of NBA (National Basketball Association) statistics using Python and various data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The dataset used contains information about NBA players, including their names, teams, age, height, weight, college, draft details, and performance statistics (e.g., points per game, rebounds per game, assists per game).
+This project serves as a personal review of math courses using NBA (National Basketball Association) statistics using Python and various data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The dataset used contains information about NBA players, including their names, teams, age, height, weight, college, draft details, and performance statistics (e.g., points per game, rebounds per game, assists per game).
 
 Files
 nba_data.csv: CSV file containing the NBA dataset used for analysis.
@@ -8,6 +8,9 @@ nba_statistics.ipynb: Jupyter Notebook containing the Python code for data analy
 README.md: This file providing an overview of the project and instructions for use.
 Usage
 This project is intended for personal review and learning purposes. To use this project:
+
+DataSet
+https://www.kaggle.com/datasets/justinas/nba-players-data
 
 Clone the repository to your local machine:
 bash
